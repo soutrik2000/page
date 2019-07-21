@@ -1,0 +1,247 @@
+body{
+    background-color:white;
+    font-family: Arial, Helvetica, sans-serif;
+    color:black;
+    font-size:20px;
+    line-height:1.6em;
+    
+   
+}
+
+a{
+    color:white;
+    font-family: cursive;
+   
+    padding:15px;
+    font-size: 160%;
+   
+    
+    
+    
+   
+}
+
+a:hover{
+    color:blue;
+
+}
+
+
+.container{
+
+    width:80%;
+    margin-left:10px;
+
+   
+  
+    
+}
+
+.container h1{
+    border:22px coral solid;
+    margin-left:-10px;
+    margin-bottom:-2px;
+    text-align: left;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.image h1{
+
+
+    background-image: url("");
+    margin-top:20px;
+    width: 830px;
+    height:700px;
+    box-sizing: border-box;
+    
+
+    
+
+}
+
+    
+   
+    
+
+
+ul{
+  background-image:url("https://tse1.mm.bing.net/th?id=OIP.ku82DMQhCMx0YehzNVasPQHaC9&pid=Api&P=0&w=491&h=197");
+  height:40px;
+  width:1510px;
+  box-sizing: border-box;
+  padding:40px;
+  margin-left:-1%;
+  border:1px  grey solid;
+   
+  
+}
+
+#main{
+    background:coral;
+    margin-top:-20px;
+
+   
+}
+
+#navbar{
+    margin-top:-2%;
+
+    background-color: darkslategrey;
+    color:black;
+}
+
+#navbar ul{
+  
+    
+
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#navbar li{
+    display:inline;
+   
+}
+
+
+#showcase h1{
+    background-image: url("birdman2(1).jpg");
+   background-size: cover;
+    
+    height:600px;
+    width:1200px;    
+    margin-top:-22px;
+      
+    
+}
+
+#showcase h1:hover{
+    background-image: url("https://assets.nationbuilder.com/fairvote/pages/3149/meta_images/original/Birdman-2014-Movie-Poster-Wallpaper-crop.jpg?1452707254");
+    background-size:cover;
+    background-position: right;
+     
+     height:600px;
+     width:1200px;    
+     margin-top:-22px;
+     transition: all 0.45s ease-in-out;
+
+    
+}
+
+#showcase h2{
+     float:right;
+     width:305px;
+     height:300px;
+     background-image: url("https://media.giphy.com/media/10jEv3wcc2YQH6/giphy.gif");
+     margin-top:-627px;
+     background-size: cover;
+     background-position: top left;
+     
+
+}
+
+#showcase h3{
+
+    float:right;
+    background-image: url("https://media0.giphy.com/media/pj3F6kEWAMuNG/giphy.webp?cid=790b76115d32a5ce757a547a51bc5226&rid=giphy.webp");
+    width:305px;
+    height:300px;
+    margin-top:-326px;
+    background-size: cover;
+  
+
+}
+
+#synopsis{
+    float:left;
+    width:70%;
+    color:brown;
+    padding:10px;
+    box-sizing:border-box;
+    
+}
+
+
+
+
+#footer{
+    text-align: center;
+    padding:1px;
+    margin-top:500px;
+    background-color: black;
+    color: blanchedalmond;
+
+}
+
+#showcase h2:hover{
+    float:right;
+     width:305px;
+     height:300px;
+     background-image: url("https://media0.giphy.com/media/f6VmaerWMlUu4/200w.webp?cid=790b76115d32b43c6165656a590f1128&rid=200w.webp");
+     margin-top:-627px;
+     background-size: cover;
+     background-position: top left;
+     
+    transition: all 0.60s ease-in-out;
+}
+
+#synopsis p{
+
+    font-family: cursive;
+    color: sienna;
+}
+#synopsis h2{
+
+    font-family: cursive;
+}
+
+.img h1{
+    
+    float:right;
+    background-image: url("https://pics.filmaffinity.com/Birdman-942790197-large.jpg");
+    width: 320px;
+    height:170px;
+    background-size: 300px;
+    margin-right: -80px;
+}
+
+.img h2{
+
+    float:right;
+    background-image: url("https://tse4.mm.bing.net/th?id=OIP.QmRTGh4YODhEzPK4okW-6wHaD6&pid=Api&P=0&w=292&h=155");
+    width:350px;
+    height:170px;
+    background-size:cover;
+    margin-right:-680px;
+}
+
+.img h3{
+    float:right;
+    background-image: url("https://media1.giphy.com/media/KN0vcsypvm1P2/giphy.webp?cid=790b76115d32be9a4873394d6f1769d7&rid=giphy.webp");
+    width:350px;
+    height:230px;
+    background-size:300px;
+    background-size: cover;
+    margin-right:-680px;
+    margin-top:200px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+     
+
+  
+
+    
+
